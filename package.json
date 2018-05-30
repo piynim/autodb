@@ -1,0 +1,22 @@
+{
+  "name": "timeapp",
+  "version": "1.0.0",
+  "description": "Basic application for employeetime management",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piynim/timeApp.git"
+  },
+  "author": "Zed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piynim/timeApp/issues"
+  },
+  "homepage": "https://github.com/piynim/timeApp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
